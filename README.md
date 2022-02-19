@@ -56,9 +56,9 @@ AboutMe = {
 <div align=center>
 <h2>Social media links</h2>
     
-[![u/AdityaGameDev reddit](https://img.shields.io/badge/-REDDIT-informational?style=for-the-badge&logo=reddit&logoColor=white&color=ff0000)](https://www.reddit.com/u/AdityGameDev)
+[![u/AdityaGameDev reddit](https://img.shields.io/badge/-REDDIT-informational?style=for-the-badge&logo=reddit&logoColor=white&color=ff0000)](https://www.reddit.com/user/AdityaGameDev)
 [![@AnonymAditya twitter](https://img.shields.io/badge/-TWITTER-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/AnonymAditya/)
-[![ItsAditya DeSo](https://img.shields.io/badge/-deso-informational?style=for-the-badge&logo=deso&logoColor=white&color=orange)](https://dimaondapp.com/u/ItsAditya)
+[![ItsAditya DeSo](https://img.shields.io/badge/-deso-informational?style=for-the-badge&logo=deso&logoColor=white&color=orange)](https://diamondapp.com/u/ItsAditya)
 
 </div>
 
