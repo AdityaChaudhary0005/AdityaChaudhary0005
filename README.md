@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityacodes_" target="blank"><img src="https://img.shields.io/twitter/follow/adityacodes_?logo=twitter&style=for-the-badge" alt="adityacodes_" /></a> </p>
 
+
 - I am currently building [Cordify](https://cordify.app)
 
 - ✔️ Built [Deso.Py](https://pypi.org/project/deso/)
@@ -19,9 +20,11 @@
 
 - 💬 Ask me about **Blockchain and full stack development**
 
-- 📫 How to reach me [chaudharyaditya0005@gmail.com](chaudharyaditya0005@gmail.com)
+- 📫 How to reach me: DM on twitter or message me on discord: ADITAY#3780
 
 - 📝 I regularly write articles on **https://hashnode.com/@AdityaGameDev**
+
+- 🌐 Connect with me on DeSo: **https://diamondapp.com/u/ItsAditya
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
