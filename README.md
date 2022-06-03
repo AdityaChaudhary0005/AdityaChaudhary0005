@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Blockchain and full stack development**
 
-- 📫 How to reach me: DM on twitter or message me on discord: ADITAY#3780
+- 📫 How to reach me: DM on twitter or message me on discord: ADITYA#3780
 
 - 📝 I regularly write articles on **https://hashnode.com/@AdityaGameDev**
 
