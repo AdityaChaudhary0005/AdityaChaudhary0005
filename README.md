@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on **https://hashnode.com/@AdityaGameDev**
 
-- 🌐 Connect with me on DeSo: **https://diamondapp.com/u/ItsAditya
+- 🌐 Connect with me on DeSo: **https://diamondapp.com/u/ItsAditya**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
