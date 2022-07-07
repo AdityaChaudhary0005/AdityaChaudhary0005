@@ -15,7 +15,7 @@
 
 - ✔️ Built [Desohive](https://desohive.com)
 
-- 🌱 I’m currently learning **React and Tailwind**
+- 🌱 I’m currently learning **ReactNative** and TezPy (Tezos Smart Contract development)
 
 - 💬 Ask me about **Blockchain and full stack development**
 
