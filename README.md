@@ -34,7 +34,8 @@
 <a href="https://hashnode.com/@adityagamedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@adityagamedev" height="30" width="40" /></a>
 <a href="https://medium.com/@itsadityanotes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itsadityanotes" height="30" width="40" /></a>
 </p>
-
+<div align="center">
+<details open>
 <summary><h2>Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2></summary>
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/-cpp-silver?style=for-the-badge">
