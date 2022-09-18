@@ -71,6 +71,7 @@
 <br>
 <img src="https://img.shields.io/badge/-unity_3D-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-stencyl Game Engine-silver?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Inkscape-silver?style=for-the-badge">
 <br>
 <img src="https://img.shields.io/badge/-Node JS-grey?style=for-the-badge">
 </details>
