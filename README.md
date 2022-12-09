@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=itsaditya-xyz" alt="itsaditya-xyz" /> <a/> </p>
 
-<p align="left"> <a href="https://twitter.com/itsaditya_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/adityacodes_?logo=twitter&style=for-the-badge" alt="adityacodes_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsaditya_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/itsaditya_xyz?logo=twitter&style=for-the-badge" alt="itsaditya_xyz" /></a> </p>
 
 - I am currently building [Cordify](https://cordify.app)
 
