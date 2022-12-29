@@ -17,13 +17,13 @@
 
 - ✔️ Built [Desohive](https://desohive.com)
 
-- 🌱 I’m currently learning **ReactNative** and TezPy (Tezos Smart Contract development)
+- 🌱 I’m currently learning nothing. just making money with the tiny knowledge i have
 
-- 💬 Ask me about **Blockchain and full stack development**
+- 💬 Ask me about **Blockchain and full stack development** Don't ask about investment lol
 
 - 📫 How to reach me: DM on twitter or message me on discord: ADITYA#3780
 
-- 📝 I regularly write articles on **https://hashnode.com/@AdityaGameDev**
+- 📝 I sometimes write articles on **https://hashnode.com/@AdityaGameDev**
 
 - 🌐 Connect with me on DeSo: **https://diamondapp.com/u/ItsAditya**
 
