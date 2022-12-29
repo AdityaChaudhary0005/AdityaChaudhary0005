@@ -10,7 +10,7 @@
 - I am currently building [CircleIt](https://circleit.app)
 
 - ✔️ Built [Cordify](https://cordify.app)
-- 
+
 - ✔️ Built [Deso.Py](https://pypi.org/project/deso/)
 
 - ✔️ Built [MintedTweets](https://MintedTweets.com)
