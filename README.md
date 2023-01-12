@@ -18,7 +18,7 @@
 - ✔️ Built [Desohive](https://desohive.com)
 
 - ✔️ Built [GroupFollow](https://groupfollow.com)
-- 
+
 - ✔️ Built [Just Slide Game (Web and Android)](https://play.google.com/store/apps/details?id=com.adityagames.justslide&hl=en&gl=US)
 
 - 🌱 I’m currently learning nothing. just making money with the tiny knowledge i have
@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/adityagamedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adityagamedev" height="30" width="40" /></a>
-<a href="https://dev.to/itsaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="itsaditya" height="30" width="40" /></a>
+<a href="https://dev.to/itsaditya" target="blank"><img align="center" src="https://www.itsaditya.xyz/static/media/devToIcon.93b89d178e6adb62ea9a.png" alt="itsaditya" height="30" width="40" /></a>
 <a href="https://twitter.com/adityacodes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityacodes_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19227293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19227293" height="30" width="40" /></a>
 <a href="https://hashnode.com/@adityagamedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@adityagamedev" height="30" width="40" /></a>
