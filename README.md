@@ -31,15 +31,7 @@
 
 - 🌐 Connect with me on DeSo: **https://diamondapp.com/u/ItsAditya**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/adityagamedev" target="blank"><img align="center" src="https://assets.codepen.io/1584356/codepen.png" alt="adityagamedev" height="30" width="40" /></a>
-<a href="https://dev.to/itsaditya" target="blank"><img align="center" src="https://www.itsaditya.xyz/static/media/devToIcon.93b89d178e6adb62ea9a.png" alt="itsaditya" height="30" width="40" /></a>
-<a href="https://twitter.com/adityacodes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityacodes_" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19227293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19227293" height="30" width="40" /></a>
-<a href="https://hashnode.com/@adityagamedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@adityagamedev" height="30" width="40" /></a>
-<a href="https://medium.com/@itsadityanotes" target="blank"><img align="center" src="https://www.itsaditya.xyz/static/media/mediumIcon.59e88b33f7111b19f730.png" alt="@itsadityanotes" height="30" width="40" /></a>
-</p>
+
 <div align="center">
 <details open>
 <summary><h2>Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2></summary>
