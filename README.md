@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">19 y/o Software Craftsman</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaditya-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="itsaditya-xyz" /> </p>
-
 <p align="left"> <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=itsaditya-xyz" alt="itsaditya-xyz" /> <a/> </p>
 
 <p align="left"> <a href="https://twitter.com/itsaditya_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/itsaditya_xyz?logo=twitter&style=for-the-badge" alt="itsaditya_xyz" /></a> </p>
 
-- I am currently building [CircleIt](https://circleit.app)
+- I am currently building [SocialMask](https://socialmask.xyz)
 
+- ✔️ Built [Cordify](https://circleit.app)
+  
 - ✔️ Built [Cordify](https://cordify.app)
 
 - ✔️ Built [Deso.Py](https://pypi.org/project/deso/)
