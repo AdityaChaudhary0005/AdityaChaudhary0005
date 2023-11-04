@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/itsaditya_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/itsaditya_xyz?logo=twitter&style=for-the-badge" alt="itsaditya_xyz" /></a> </p>
 
-- I am currently building [SocialMask](https://socialmask.xyz)
+- I am currently building [SofiFeed](https://discord.gg/7APxDwszPS)
+
+- ✔️ SocialMask [SocialMask](https://socialmask.xyz)
 
 - ✔️ Built [Cordify](https://circleit.app)
   
